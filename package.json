@@ -1,11 +1,11 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "portafolioapr1991lino",
+  "description": "PortafolioApr1991lino V4",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Adrian Paez <apr.1991lino@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/Adriianpr919/PortafolioApr1991lino"
   },
   "keywords": [
     "gatsby"

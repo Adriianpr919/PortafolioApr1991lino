@@ -1,79 +1,71 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  brittanychiang.com - v4
+  www.apr1991lino.vercel.app - PortafolioApr1991lino
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  La cuarta iteración de <a href="https://www.apr1991lino.vercel.app" target="_blank">www.apr1991lino.vercel.app</a> construido con <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> y hospedado con <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
-  Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
-</p>
-<p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
+  <a href="#!" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+## 🚨 Bifurcando el repositorio (¡por favor lea!).
 
-## 🚨 Forking this repo (please read!)
+Mucha gente me ha contactado para preguntarme si pueden usar este código para su propio sitio web, y la respuesta a esa pregunta suele ser **sí, con atribución**.
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+Valoro mantener mi sitio de código abierto, pero como todos saben, _**el plagio es malo**_. Siempre es desalentador cuando descubro que alguien ha copiado mi sitio sin darme crédito. Dediqué una cantidad no trivial de esfuerzo a construir y diseñar esta iteración de mi sitio web, ¡y estoy orgulloso de ello! Todo lo que les pido a todos ustedes es que no reclamen este esfuerzo como propio.
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
-
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+Tenga en cuenta también que no creé este sitio con la intención de que fuera un tema de inicio, por lo que si tiene preguntas sobre la implementación, consulte el [Gatsby docs](https://www.gatsbyjs.org/docs/).
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Sí, puedes bifurcar este repositorio. Por favor, dame el crédito adecuado al enlazar de nuevo a [www.apr1991lino.vercel.app](https://www.apr1991lino.vercel.app). ¡Gracias!
 
-## 🛠 Installation & Set Up
+## 🛠 Instalación y Configuración.
 
-1. Install the Gatsby CLI
+1. Instale la CLI de Gatsby.
 
    ```sh
    npm install -g gatsby-cli
    ```
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+2. Instale y use la versión correcta de Node usando [NVM](https://github.com/nvm-sh/nvm).
 
    ```sh
    nvm install
    ```
 
-3. Install dependencies
+3. Instale dependencies.
 
    ```sh
    yarn
    ```
 
-4. Start the development server
+4. Inicie el servidor de desarrollo.
 
    ```sh
    npm start
    ```
 
-## 🚀 Building and Running for Production
+## 🚀 Construcción y funcionamiento para la producción.
 
-1. Generate a full static production build
+1. Genere una compilación de producción estática completa.
 
    ```sh
    npm run build
    ```
 
-1. Preview the site as it will appear once deployed
+1. Obtenga una vista previa del sitio tal como aparecerá una vez implementado.
 
    ```sh
    npm run serve
    ```
 
-## 🎨 Color Reference
+## 🎨 Referencia de color.
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
